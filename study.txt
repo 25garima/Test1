@@ -1,0 +1,34 @@
+PRINCE2 is principle-based, meaning that a PRINCE2 project includes 7 principles. The 7 principles are:
+• Continued business justification
+• Learn from experience
+• Defined roles and responsibilities
+• Manage by stages
+• Manage by exception
+• Focus on products
+• Tailor to suit the project environment 
+
+The 6 variables / performance targets are : Timescales, Costs, Quality, Scope, Benefits and Risk. 
+TeCQuila SoBeR
+
+PRINCE2 is a method that deals with the planning, delegation, monitoring and control of all six
+project variables
+
+
+The PRINCE2 method consists of 4 main parts and PRINCE2 has chosen the word Elements
+(also called Integrated Elements) to represent these 4 parts. These elements are Principles,
+Themes, Processes and Tailoring. Use the structure of the manual to help you remember. 
+
+What PRINCE2 not cover?
+- Specialist Aspects
+- Detailed Techniques
+- Leadership Capability
+
+Benefits:
+- Best Practice
+- Product Focussed
+- Can be applied to any kind of project
+- Structured Roles and Responsibilities
+- Management by Exception
+- Assesses the viability of the project from business point of view
+- Well defined structure for reports and Management products
+- Promotes learning and continual improvement mindset
